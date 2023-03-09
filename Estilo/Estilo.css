@@ -23,3 +23,37 @@
 .texto2 {
     font-size: 40px;
 }
+.cuerpos {
+    text-align: center;
+
+}
+
+#Arriba {
+    margin-inline: 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+#Abajo {
+    margin-left: 90px;
+    margin-inline: 50px;
+    margin-top: 20px;
+    display: inline-block;
+    text-align: center;
+}
+#Ultimo{
+    margin-right: 80px;
+    margin-top: 20px;
+    display: inline-block;
+    text-align: center;
+}
+#xp{
+    margin-top: 70px;
+    text-align: center;
+}
+.experiencia{
+    text-align: center;
+}
+#fecha{
+    display: inline-block;
+}
